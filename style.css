@@ -274,32 +274,7 @@ body{
     
 } */
 
-.ad__container{
-    display: flex;
-    padding-left: 100px;
-    flex-wrap: wrap;
-    margin-top: 20px;
-    
-}
 
-.img img{
-    height: 150px;
-}
-
-.ad__content{
-    margin-left: 20px;
-    margin-top: 40px;
-}
-
-.ad__btn p{
-    border: 1px solid black;
-    padding: 10px;
-    background-color: black;
-    color: white;
-    border-radius: 50px;
-    margin-left: 30px;
-    margin-top: 60px;
-}
 
 .about_container{
     display: flex;
